@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479366756546",
+    "project_id": "globo-thegoat",
+    "storage_bucket": "globo-thegoat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479366756546:android:f079b5eda1149e8a7be35b",
+        "android_client_info": {
+          "package_name": "com.example.globotest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbLO_WunXW9emg2_mdahMaZD9eVRrvhaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
