@@ -1,10 +1,12 @@
 # Globo: AI-Powered Language Learning App
 
 <br>
+
 ## Overview
 Globo is a comprehensive language-learning app designed to address the limitations of existing platforms. Leveraging AI technology and a user-centric design, Globo offers an innovative, personalized, and engaging approach to mastering new languages.
 
 <br>
+
 ## The Problem
 Learning a foreign language is often challenging, with many existing platforms failing to address key pain points:
 
@@ -14,6 +16,7 @@ Learning a foreign language is often challenging, with many existing platforms f
 4- Scattered Resources: Learners frequently need to rely on multiple platforms, leading to inconsistent experiences. <br>
 
 <br>
+
 ## Our Solution
 Globo aims to revolutionize language learning by tackling these issues:
 
@@ -23,6 +26,7 @@ Globo aims to revolutionize language learning by tackling these issues:
 • Unified Platform: A single app with lessons, video content, tests, and community interaction, streamlining the learning process. <br>
 
 <br>
+
 ## Key Features
 1- AI Chatbot Assistance: Powered by Google’s Gemini AI, providing real-time feedback, Q&A, and reading practice. <br>
 2- Interactive Lessons: Bite-sized, prompt-based lessons designed for efficient learning. <br>
@@ -31,6 +35,7 @@ Globo aims to revolutionize language learning by tackling these issues:
 5- Gamified Progress Tracking: Leaderboards and achievements to boost motivation. <br>
 
 <br>
+
 ## System Architecture
 Here’s how the system addresses these challenges:
 
@@ -40,6 +45,7 @@ Here’s how the system addresses these challenges:
 • Database: Optimized for scalability to handle growing user needs and future features. <br>
 
 <br>
+
 ## Why Globo Stands Out
 Unlike existing solutions, Globo:
 
@@ -49,6 +55,7 @@ Unlike existing solutions, Globo:
 4-Combines advanced AI with intuitive design to provide a seamless learning experience. <br>
 
 <br>
+
 ## Future Work
 To continue solving the problem effectively, we plan to:
 
