@@ -1,4 +1,4 @@
-# Globo: AI-Powered Language Learning App.
+# Globo: AI-Powered Language Learning App
 
 ## Overview
 Globo is a comprehensive language-learning app designed to address the limitations of existing platforms. Leveraging AI technology and a user-centric design, Globo offers an innovative, personalized, and engaging approach to mastering new languages.
@@ -6,18 +6,18 @@ Globo is a comprehensive language-learning app designed to address the limitatio
 ## The Problem
 Learning a foreign language is often challenging, with many existing platforms failing to address key pain points:
 
-Limited Real-World Use: Many apps teach vocabulary and phrases that lack practical application.
-Lack of Personalization: Learning paths often fail to adapt to individual needs and goals.
-Insufficient Engagement: Users struggle to stay motivated due to unengaging lessons and a lack of community interaction.
-Scattered Resources: Learners frequently need to rely on multiple platforms, leading to inconsistent experiences.
+1- Limited Real-World Use: Many apps teach vocabulary and phrases that lack practical application. ( <br> )
+2- Lack of Personalization: Learning paths often fail to adapt to individual needs and goals. ( <br> )
+3- Insufficient Engagement: Users struggle to stay motivated due to unengaging lessons and a lack of community interaction. (`<br>`)
+4- Scattered Resources: Learners frequently need to rely on multiple platforms, leading to inconsistent experiences. ( <br> )
 
 ## Our Solution
 Globo aims to revolutionize language learning by tackling these issues:
 
-Real-World Focus: Our lessons emphasize practical vocabulary and cultural nuances to ensure real-world applicability.
-Personalized Learning: AI-powered chatbots and customizable content adapt to each user's learning pace and interests.
-Community-Driven Engagement: Collaborative features like group chats and practice sessions keep users motivated.
-Unified Platform: A single app with lessons, video content, tests, and community interaction, streamlining the learning process.
+• Real-World Focus: Our lessons emphasize practical vocabulary and cultural nuances to ensure real-world applicability.
+• Personalized Learning: AI-powered chatbots and customizable content adapt to each user's learning pace and interests.
+• Community-Driven Engagement: Collaborative features like group chats and practice sessions keep users motivated.
+• Unified Platform: A single app with lessons, video content, tests, and community interaction, streamlining the learning process.
 
 ## Key Features
 1- AI Chatbot Assistance: Powered by Google’s Gemini AI, providing real-time feedback, Q&A, and reading practice.
